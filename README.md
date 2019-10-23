@@ -1,10 +1,28 @@
-# FWFonts
+# WMfonts
 
 Better fonts for users .
 
-## FWFonts (Magisk Modules for Android)
+## WMfonts ( Magisk Modules for Android )
 
-full weight patch for Android devices.
+Full weight and macOS fonts patch for Android devices .
 
-  ### Features
-   * Support 
+  ### Introduction
+  
+  Requires Android 9 or later .
+  
+  ### Support language
+  
+  * English
+  * Chinese ( 繁 / 簡 )
+  * Japanese
+
+
+  ### Fonts
+  
+  * English : San Francisco Pro
+  * Chinese : PingFang (蘋方)
+  * Japanese : Hiragino MaruGothic (ヒラギノ丸ゴ)
+  
+  
+  
+  
