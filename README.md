@@ -6,7 +6,7 @@ Better fonts for users .
 
 Full weight and macOS fonts patch for Android devices .
 
-  ### Introduction
+  ### Installation
   
   Requires Android 9 or later .
   
