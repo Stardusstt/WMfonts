@@ -17,12 +17,17 @@ Full weight and macOS fonts patch for Android devices .
   * Japanese
 
 
-  ### Fonts
+  ### Font
   
   * English : San Francisco Pro
   * Chinese : PingFang (蘋方)
   * Japanese : Hiragino Kaku Gothic (ヒラギノ角ゴ) , Hiragino MaruGothic (ヒラギノ丸ゴ)
   
+  ### Font weight
+  
+  * English : 100 , 300 , 400 , 500 , 700 , 900  
+  * Chinese : 100 , 200 , 300 , 400 , 500 , 600
+  * Japanese : 100 , 200 , 300 , 400 , 500 , 600
   
   
   
