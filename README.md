@@ -26,3 +26,10 @@ Full weight and macOS fonts patch for Android devices .
   
   
   
+ 
+
+
+# Support
+
+* Any issue or pull request are welcomed.
+* Star this project at [GitHub](https://github.com/Stardusstt/WMfonts) .
