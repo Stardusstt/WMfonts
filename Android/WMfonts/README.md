@@ -4,7 +4,7 @@ Full weight and macOS fonts patch for Android devices .
 
   ## Installation
   
-  Requires Android 9 or later .
+  Requires Android 7 or later .
   
   ## Support language
   
