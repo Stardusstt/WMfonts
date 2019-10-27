@@ -1,36 +1,7 @@
-# WMfonts
+# Magisk Module Template
 
-Full weight and macOS fonts patch for Android devices .
+**Update `README.md` if you want to submit your module to the online repo!** This `README.md` will be shown in a Webview dialog when a user taps your module in Magisk Manager, so make sure to place some information / changelog / notes here.
 
-  ## Installation
-  
-  Requires Android 7 or later .
-  
-  ## Support language
-  
-  * English
-  * Chinese ( 繁 / 簡 )
-  * Japanese
+If you are not familiar with the Markdown syntax, you can start by experimenting on GitHub's online Markdown editor, which will let you preview before publishing. If you need more help, the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) will be handy.
 
-
-  ## Font
-  
-  * English : San Francisco Pro
-  * Chinese : PingFang (蘋方)
-  * Japanese : Hiragino Kaku Gothic (ヒラギノ角ゴ) , Hiragino MaruGothic (ヒラギノ丸ゴ)
-  
-  ## Font weight
-  
-  * English : 100 , 300 , 400 , 500 , 700 , 900  
-  * Chinese : 100 , 200 , 300 , 400 , 500 , 600
-  * Japanese : 100 , 200 , 300 , 400 , 500 , 600
-  
-  
-  
- 
-
-
-# Support
-
-* Any issue or pull request are welcomed.
-* Star this project at [GitHub](https://github.com/Stardusstt/WMfonts) .
+For more information about modules and repos, please check the [official documentation](https://github.com/topjohnwu/Magisk/blob/master/docs/modules.md)
