@@ -67,12 +67,13 @@ REPLACE="
 # Construct your own list here, it will override the example above
 # !DO NOT! remove this if you don't need to replace anything, leave it empty as it is now
 REPLACE="
-/system/fonts/CutiveMono.ttf
-/system/fonts/DroidSansMono.ttf
-/system/fonts/NotoSerif-Bold.ttf
-/system/fonts/NotoSerif-BoldItalic.ttf
-/system/fonts/NotoSerif-Italic.ttf
-/system/fonts/NotoSerif-Regular.ttf
+/system/fonts/GoogleSans-Bold.ttf
+/system/fonts/GoogleSans-BoldItalic.ttf
+/system/fonts/GoogleSans-Italic.ttf
+/system/fonts/GoogleSans-Medium.ttf
+/system/fonts/GoogleSans-MediumItalic.ttf
+/system/fonts/GoogleSans-Regular.ttf
+/system/fonts/ProductSans-Regular.ttf
 /system/fonts/Roboto-Black.ttf
 /system/fonts/Roboto-BlackItalic.ttf
 /system/fonts/Roboto-Bold.ttf
